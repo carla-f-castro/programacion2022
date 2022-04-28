@@ -1,1 +1,1 @@
-console.log("hola tierra del fuego");
+console.log(5 * 10);
